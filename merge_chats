@@ -1,0 +1,14 @@
+CHALLENGE
+Sometimes, a single topic I am working on with GPT gets split across multiple chats but I want to be able to talk with GPT about everything on the topic we've discussed from all the related chats so far.
+
+SOLUTION
+In each chat, ask GPT to generate a downloadable transcript file of the entire chat so far, and then upload these to the chat you want to continue the conversation in.
+
+PROMPTS
+In the previous chats:
+
+  Generate a transcript of our entire conversation so far as a downloadable text file.
+
+In the active chat:
+
+  The attached documents are transcripts of other GPT chats. Review them and consider their contents as we go forward in our conversation.
