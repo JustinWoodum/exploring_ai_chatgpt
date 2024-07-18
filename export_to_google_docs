@@ -1,0 +1,8 @@
+CHALLENGE
+I sometimes want to export responses or content from GPT into Google Docs but different file types import into Docs with varying levels of success and accuracy.
+
+SOLUTION
+I performed a series of tests, exporting content from GPT in different file types, importing them into Docs, and assessing their accuracy. Exporting from GPT/importing to Docs using an HTML file worked the best.
+
+PROMPTS
+Generate an HTML document from your last response that I can download here.
