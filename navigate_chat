@@ -1,0 +1,8 @@
+CHALLENGE
+Sometimes chats can become quite lengthy. If you have been in the same chat for a long time, or if you are returning to a long chat after some time, it can be hard to remember what you have already discussed.
+
+SOLUTION
+Tell GPT to create a summary list of topics you have discussed.
+
+PROMPTS
+Give a bulleted list of the topics we've discussed so far.
