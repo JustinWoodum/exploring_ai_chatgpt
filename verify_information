@@ -1,0 +1,17 @@
+CHALLENGE
+When using GPT for business, it's crucial to verify that the information is correct.
+
+SOLUTION
+Request that GPT provide sources for all information where it can be verified.
+
+PROMPTS
+Provide a source for every piece of information where I can verify the information.
+
+  Options:
+
+    * You can specify the format for the citations. Prompts:
+      * Put citations in APA format.
+      * Put citations in MLA format.
+
+    * You can ask for more than one source. Prompt:
+      * Provide 3 sources for every piece of information
