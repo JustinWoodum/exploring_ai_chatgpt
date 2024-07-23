@@ -1,0 +1,11 @@
+CHALLENGE
+There are many useful frameworks and methods to learn in the world but reviewing the original materials - entire books or lecture series - these come from can be time-consuming. Sometimes, I want to be able to explore and experiment with the key ideas without needing to review these materials in full.
+
+SOLUTION
+GPT is familiar with many popular books and can generate content based on them. Instead of reading the entire original material - the book, etc. - I start by exploring it with GPT's help, asking for summaries, discussing finer points, showing examples, and ultimately generating a framework that GPT can help me apply to my specific problems. The original book can then be read in-full later, if useful.
+
+PROMPTS
+* Give an overview of the book Atomic Habits by James Clear.
+  * Give a list of the most essential ideas in the book.
+  * Provide a framework I can use to apply the ideas from the book.
+    * Help me apply this framework to this problem: [describe problem]
