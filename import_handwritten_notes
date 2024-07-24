@@ -1,0 +1,8 @@
+CHALLENGE
+I like to write by hand but it takes time to type these notes into my project files later.
+
+SOLUTION
+GPT can read handwritten text from images and convert it to text.
+
+PROMPTS
+* Transcribe the notes written in the attached image. [Attach image]
