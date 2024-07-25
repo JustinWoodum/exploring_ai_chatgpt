@@ -8,3 +8,5 @@ PROMPTS
 Generate a table where column 1 is the list of organizations, column 2 is their number of employees, and column 3 was their revenue for last year. If you don't know, please write "UNKNOWN" in the cell. Don't leave any cells blank. Display the table here.
 
   * The purpose of "Display the table here" is to prevent GPT from generating the table within a codebox, as HTML code, or in some other format.
+
+Convert this to a table.
