@@ -1,0 +1,8 @@
+CHALLENGE
+GPT, by default, provides what could be considered verbose, lengthy answers. Sometimes this helpful but other times, time-wasting.
+
+SOLUTION
+These prompts are examples of ways to make conversations more lean.
+
+PROMPTS
+Confirm that when I said ____, you understood that I meant ____. Did you understand that, yes or no? [This is useful for data-science-like processes where accuracy in logic is crucial.]
