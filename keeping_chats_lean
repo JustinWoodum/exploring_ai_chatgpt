@@ -5,4 +5,6 @@ SOLUTION
 These prompts are examples of ways to make conversations more lean.
 
 PROMPTS
-Confirm that when I said ____, you understood that I meant ____. Did you understand that, yes or no? [This is useful for data-science-like processes where accuracy in logic is crucial.]
+* Confirm that when I said ____, you understood that I meant ____. Did you understand that, yes or no? [This is useful for data-science-like processes where accuracy in logic is crucial.]
+
+* When working on longer documents, use phrases like "for now, let's only work on the new section." This will cause GPT to stop showing the longer document every time it makes a change and just show the section you are actively working on. When you are ready to see the full doc again, say "show the entire document".
