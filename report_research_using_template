@@ -1,0 +1,27 @@
+CHALLENGE
+Information is presented in different ways on different websites. Sometimes the way it's presented can make it difficult to understand or use.
+
+SOLUTION
+Request information about something in the form of an ad-hoc template to get GPT to research it and provide the information in the form of your template. Specific web pages can be 
+
+PROMPTS
+* Learn about an event and report on it using a template:
+  
+  [name of the event, with date if name is generic; or a web URL to an event page]
+  The above is an event.
+  
+  Tell me about the event. Present your findings as a table. Include the following information. Double check your information before sharing. Do as much research as you need to. Try to find and use multiple sources. Rely on the event-specific pages over the venue pages for information. Some information may not be presented clearly. Do you your best to provide all of the requested information.
+  
+  Requested information:
+  - Venue name
+  - Venue address
+  - Venue capacity
+  - Event hours
+  - List of performers or speakers
+  - List of vendors
+  - List of any other major hosts, participants, or sponsors
+  - Recommended dress
+  - Recommended parking options
+  - Why this event is special or exciting
+  - Who the most popular performers or speakers are and why
+  - Links to any online event pages
