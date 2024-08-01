@@ -1,0 +1,10 @@
+CHALLENGE
+Making complex decisions can be time-consuming and risky, especially if the information being used to make the decision is scattered or hard to understand.
+
+SOLUTION
+GPT can be used to generate various forms of decision-making support diagrams and other assets.
+
+PROMPTS
+* Generate a SWOT diagram for [a scenario like whether to sell a company].
+  
+* Add this to request that GPT keep the information in text, and not generate a visual diagram: Show the text, not a visual chart.
