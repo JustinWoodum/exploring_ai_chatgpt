@@ -1,0 +1,10 @@
+CHALLENGE
+GPT can be somewhat lazy when researching topics and sometimes this leads to either no or poor quality results.
+
+SOLUTION
+You can tell GPT how you want it to conduct it research.
+
+PROMPTS
+* A list of venues in [CITY] follows. Only show what I ask for. Tell me what's happening at each of them on [DATE]. Don't use pre-collected information - search online. Search their home websites. Search social media websites. Search events websites. Search community websites. List specific performers. Double check your findings. Don't show me your work until you finish. Present your findings as a table with columns Venue, Times, Event Name, Genres (as precisely as possible), Performers.
+
+  [VENUE NAMES AS A LIST]
