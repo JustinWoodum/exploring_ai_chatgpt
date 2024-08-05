@@ -1,0 +1,14 @@
+CHALLENGE
+I noticed that when requesting information about events on specific dates using words like "today" or "tomorrow"—terms that are relative, not absolute—the results tended to have more errors than normal.
+
+SOLUTION
+Specifying exact dates, like August 5, 2024, or 8/5/24 (US format), leads to better accuracy in results than using relative terms like "today." I asked GPT why this was, and here is what it shared:
+
+  "Using a specific date rather than terms like 'today' or 'tomorrow' yields better results for several reasons:
+    - Precision: Specific dates provide a clear, unambiguous point in time. 'Today' and 'tomorrow' are relative and change depending on when the request is made, which can lead to confusion or incorrect data retrieval.
+    - Context clarity: A precise date ensures the context is understood correctly. For example, asking about events on 'August 5, 2024,' eliminates any doubt about the exact period you're inquiring about, unlike 'today,' which shifts daily.
+    - Consistency: Using exact dates ensures consistent responses regardless of when the query is made. This is particularly important for tasks involving historical data, event planning, or scheduling.
+    - Less ambiguity: Relative terms like 'today' or 'tomorrow' can vary based on time zones or user interpretation, leading to potential errors. Specific dates remove this ambiguity, ensuring the information provided is accurate and relevant to the intended time frame."
+  
+PROMPTS
+Example: Tell me what music events are happening in Bellingham, WA, on 8/5/24.
