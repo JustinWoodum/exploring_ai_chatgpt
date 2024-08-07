@@ -1,0 +1,24 @@
+CHALLENGE
+Links in GPT can be formatted in different ways such as showing a clickable URL, a text URL, or a formatted link. If you have additional source citation requirements then it can get complicated to know that to say in your prompt to get the final version you need.
+
+SOLUTION
+The solution so far has been to experiment and take notes.
+
+PROMPTS
+* This will provide links where keywords are clickable formatted links:
+
+  Add useful inline links.
+
+* This will provide formatted links within () and use sources to support the text.
+
+  Add links to supporting sources.
+
+* These requests can be combined.
+
+  Add both useful inline links and links to supporting sources.
+
+* You can request specific reference cituation standards:
+
+  Write supporting sources in MLA format.
+
+  Write supporting sources in APA format.
