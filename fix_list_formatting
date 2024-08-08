@@ -1,0 +1,14 @@
+CHALLENGE
+Sometimes GPT will format lists incorrectly, especially when dealing with multiple levels. Asking GPT to fix the formatting issues often does not work.
+
+SOLUTION
+Ask GPT to convert the entire list into a different form, such as rewriting it as "plaintext" or putting in a "codebox". Once rewritten in the new form, it will be fixed. If you want it displayed in the chat again using the default form, you can say "Display the list in the chat."
+
+PROMPTS
+* Convert the list to plaintext.
+
+* Put the list in a codebox.
+
+* To get GPT to show it in the default form again:
+  
+  Show the list in the chat.
