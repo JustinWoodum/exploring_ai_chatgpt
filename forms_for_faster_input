@@ -1,0 +1,22 @@
+CHALLENGE
+When using GPT for making datasets where you want to provide information about each item, like lists of your favorite movies with your ratings and comments about them, it can be tedious to move through the list item by item.
+
+SOLUTION
+Ask GPT to create a plainttext form that you can enter information into and then send back to GPT. This enables you to add multiple pieces of information in a single batch that can be faster than navigating these changes through GPT. Being plaintext, it can be copied into another app like a text editer or, if not too long, can be edited directly in the GPT prompt field.
+
+PROMPTS
+* Start by making the list: 
+
+  Make a list of the top 20 movies of 2024 in the United States by sales.
+
+* Make the form:
+
+  Make a plainttext form that I can fill in to rate each movie, add comments, and say whether I would recommend it to others.
+
+* Edit the form and send it back to GPT. Optionally, you can ask it to show it in different ways:
+
+  Show the text form I submitted.
+
+  Show my responses as a table.
+
+  
