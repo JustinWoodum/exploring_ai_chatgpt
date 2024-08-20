@@ -2,7 +2,9 @@ CHALLENGE
 I like to write by hand but it takes time to type these notes into my project files later.
 
 SOLUTION
-GPT can read handwritten text from images and convert it to text.
+GPT can read handwritten text from images and convert it to text. Sometimes this works and sometimes it doesn't. From GPT:
+
+  "GPT uses a process called OCR (Optical Character Recognition) to read text from images. It relies on an open-source tool called Tesseract to perform this task. Tesseract, originally developed by Hewlett-Packard and now maintained by the open-source community with contributions from Google, analyzes the image and tries to recognize and extract the text it finds. Sometimes, the image is cleaned up first by adjusting brightness or removing noise to help improve accuracy. After extracting the text, GPT processes and presents it to you. Tesseract works well for clear, printed text but may struggle with messy handwriting or unclear images."
 
 PROMPTS
 * Transcribe the notes written in the attached image. [Attach image]
