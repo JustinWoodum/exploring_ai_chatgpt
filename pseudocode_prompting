@@ -1,0 +1,35 @@
+CHALLENGE
+
+Sometimes it's more convenient to explain a process using pseudocode. We know GPT can attempt to write code but can you make your requests in code?
+
+SOLUTION
+
+Yes, you can! GPT accepts pseudocode as a way of asking it to perform a process. This enables you to blend pseudocode into your prompts and logic, which can mean less typing and more accuracy.
+
+PROMPTS
+
+* Use pseudocode. Space can be used instead of tabs:
+
+	Prompt:
+
+		I have a few colors and a few numbers. Red, green, blue and 2, 4, 6. Can you...
+
+		for each color
+		   for each number
+		      print(append the number to the color)
+
+	Output:
+
+		Here are the color-number combinations:
+
+			Red2
+			Red4
+			Red6
+			Green2
+			Green4
+			Green6
+			Blue2
+			Blue4
+			Blue6
+
+		These are the results of appending each number to each color.
