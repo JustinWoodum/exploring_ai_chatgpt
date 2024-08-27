@@ -1,0 +1,10 @@
+CHALLENGE
+Sometimes, it takes multiple attempts before GPT produces what you are seeking. Even when you finally get what you want, it can be unclear how to get GPT to produce the same output in the future.
+
+SOLUTION
+After you get the results you want, ask GPT to give you a prompt to use next time you want to do the same sort of task.
+
+PROMPTS
+* After getting the output you were seeking: "Give me a prompt so that i could have gotten this result the first time."
+
+* See alternative prompts: "Give me other prompts that could have been useful in this task."
